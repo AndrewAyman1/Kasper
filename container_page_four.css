@@ -1,0 +1,494 @@
+.container_page_four {
+  width: 100%;
+  height: 120vh;
+}
+
+.text_corner1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+}
+
+.portfolio_corner {
+  padding-top: 70px;
+}
+
+.portfolio_text {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 40px;
+  position: relative;
+  margin-bottom: 0px;
+}
+
+.Curabitur_arcu {
+  text-align: center;
+  width: 550px;
+  margin: 0 auto 100px;
+  max-width: 100%;
+  line-height: 2;
+  color: #777;
+}
+
+.box_1 {
+  width: 13%;
+  display: flex;
+  align-items: center;
+  height: 57px;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.hr_portfolio {
+  position: absolute;
+  background-color: black;
+  width: 125px;
+  border: 1px solid;
+  border-color: #333;
+}
+
+.sircle_0 {
+  position: absolute;
+  border: 2px solid;
+  right: calc(50% - 7.5px);
+  border-radius: 50%;
+  background-color: white;
+  width: 15px;
+  height: 15px;
+}
+
+.container_icons_5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  height: 50px;
+  margin: auto;
+}
+
+.container_icons_5 div {
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container_icons_5 p {
+  margin: 0px;
+  text-align: center;
+}
+
+.icons1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #19c8fa;
+  color: white;
+}
+
+.container_of_8_boxss {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  row-gap: 3px;
+  margin-top: 50px;
+  width: 100%;
+  height: 55vh;
+}
+
+
+.box_imge_portfolio1 {
+  background-image: url("images/shuffle-01.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  transition: .3s;
+  width: 100%;
+  height: 100%;
+}
+.box_imge_portfolio2 {
+  background-image: url("images/shuffle-02.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio3 {
+  background-image: url("images/shuffle-03.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio4 {
+  background-image: url("images/shuffle-04.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio5 {
+    background-image: url("images/shuffle-05.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio6 {
+    background-image: url("images/shuffle-06.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio7 {
+    background-image: url("images/shuffle-07.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_imge_portfolio8 {
+  background-image: url("images/shuffle-08.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  transition: .3s;
+  height: 100%;
+}
+.box_portfolio1 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio2 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+  position: relative;
+}
+.box_portfolio3 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio4 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio5 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio6 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio7 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+.box_portfolio8 {
+  width: 25%;
+  height: 50%;
+  transition: 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+.caption1 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption2 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption3 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption4 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption5 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption6 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption7 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+.caption8 {
+  background-color: white;
+  padding: 20px;
+  width: calc(100% - 40px);
+  height: 25%;
+  transform: translateY(100%);
+  position: relative;
+  transition: .4s cubic-bezier(0.42, 0, 0.34, 1.18);
+}
+
+.caption1 h4 {
+  margin: 0;
+}
+
+.caption1 p {
+  margin-bottom: 0;
+}
+.caption2 h4 {
+  margin: 0;
+}
+
+.caption2 p {
+  margin-bottom: 0;
+}
+.caption3 h4 {
+  margin: 0;
+}
+
+.caption3 p {
+  margin-bottom: 0;
+}
+.caption4 h4 {
+  margin: 0;
+}
+
+.caption4 p {
+  margin-bottom: 0;
+}
+.caption5 h4 {
+  margin: 0;
+}
+
+.caption5 p {
+  margin-bottom: 0;
+}
+.caption6 h4 {
+  margin: 0;
+}
+
+.caption6 p {
+  margin-bottom: 0;
+}
+.caption7 h4 {
+  margin: 0;
+}
+
+.caption7 p {
+  margin-bottom: 0;
+}
+.caption8 h4 {
+  margin: 0;
+}
+
+.caption8 p {
+  margin-bottom: 0;
+}
+
+.box_portfolio1:hover .caption1 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio2:hover .caption2 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio3:hover .caption3 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio4:hover .caption4 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio5:hover .caption5 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio6:hover .caption6 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio7:hover .caption7 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+.box_portfolio8:hover .caption8 {
+  transform: translateY(0%);
+  margin-top: -94px;
+}
+
+.box_imge_portfolio1:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio2:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio3:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio4:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio5:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio6:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio7:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+.box_imge_portfolio8:hover {
+    transform: rotate(4deg)  scale(1.15);
+}
+
+@media (max-width:767px) {
+
+    .container_of_8_boxss{
+        row-gap: 20px;
+    }
+
+    .box_portfolio1 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio2 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio3 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio4 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio5 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio6 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio7 {
+        width: 100%;
+        height: 100%;
+      }
+      .box_portfolio8 {
+        width: 100%;
+        height: 100%;
+      }
+}
+
+@media (min-width:768px) and (max-width:1022px) {
+
+    .container_of_8_boxss{
+        gap: 10px;
+    }
+
+    .box_portfolio1 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio2 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio3 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio4 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio5 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio6 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio7 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+      .box_portfolio8 {
+        width: calc(50% - 20px);
+        height: 50%;
+      }
+    
+}
